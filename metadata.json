@@ -1,0 +1,6 @@
+{
+  "name": "MarketAI Radar",
+  "description": "Plataforma profissional de análise de mercado com IA, motor de sinais, análise de reversão, múltiplos tempos gráficos, notícias e alertas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
